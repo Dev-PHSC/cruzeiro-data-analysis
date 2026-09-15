@@ -4,17 +4,17 @@ Projeto de Ciência de Dados aplicado ao Cruzeiro Esporte Clube.
 
 ## Sobre o projeto
 
-Futebol sempre foi um dos meus grandes interesses, e o Cruzeiro é o clube que amo.
+Futebol sempre foi uma das minhas grandes paixões, e o Cruzeiro é o clube que dá sentido a essa paixão.
 
-Atualmente sou estudante de Ciência da Computação e estou cursando a disciplina de Ciência de Dados. A partir disso, decidi unir um tema que gosto com os conhecimentos que estou adquirindo durante a graduação.
+Sou estudante de Ciência da Computação e, durante a disciplina de Ciência de Dados, decidi unir meu interesse por futebol aos conhecimentos que estou desenvolvendo durante a graduação.
 
-O **Cruzeiro Data Analysis** foi criado com dois objetivos principais:
+O **Cruzeiro Data Analysis** foi criado com três objetivos principais:
 
 - praticar conceitos e ferramentas estudados em Ciência de Dados;
-- desenvolver um projeto próprio para compor meu portfólio no GitHub.
-- entender um pouco mais sobre o meu clube.
+- desenvolver um projeto próprio para compor meu portfólio no GitHub;
+- aprofundar meu conhecimento sobre o desempenho histórico do Cruzeiro por meio dos dados.
 
-Ao longo do projeto, pretendo trabalhar desde a coleta e organização dos dados até a análise, visualização e interpretação dos resultados.
+Ao longo do projeto, pretendo trabalhar com organização, tratamento, exploração, visualização e interpretação dos dados.
 
 ## Objetivos
 
@@ -82,6 +82,17 @@ Algumas variáveis que poderão ser estudadas:
 - escanteios;
 - gols marcados e sofridos.
 
+
+## Perguntas de interesse
+
+Ao longo do projeto, algumas das perguntas que pretendo investigar são:
+
+- Como o desempenho do Cruzeiro evoluiu ao longo das temporadas?
+- O desempenho como mandante é significativamente melhor do que como visitante?
+- Quais jogadores tiveram maior impacto nos resultados?
+- Contra quais adversários o Cruzeiro apresenta melhor ou pior retrospecto?
+- Quais estatísticas de jogo estão mais associadas a vitórias?
+
 ## Tecnologias
 
 O projeto utilizará principalmente:
@@ -112,3 +123,10 @@ cruzeiro-data-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
+## Fonte dos dados
+
+Os dados utilizados neste projeto foram obtidos a partir do [Brasileirao_Dataset](https://github.com/adaoduque/Brasileirao_Dataset).
+
+O conjunto contém informações sobre partidas do Campeonato Brasileiro entre 2003 e 2025.
