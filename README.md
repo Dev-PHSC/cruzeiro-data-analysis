@@ -20,7 +20,7 @@ Ao longo do projeto, pretendo trabalhar desde a coleta e organização dos dados
 
 O projeto pretende analisar o desempenho do Cruzeiro no Campeonato Brasileiro nas temporadas:
 
-- 2003 até 2024
+- 2003 até 2025
 
 Esses dados serão utilizados para investigar diferentes aspectos do desempenho da equipe ao longo dos anos.
 
